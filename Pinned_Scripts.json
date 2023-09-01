@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Infinite Yield",
+        "mastahubdata": {
+            "link": "https://pastebin.com/raw/fzQgv20F",
+            "creator": "EdgeIY"
+        }
+    },
+  {
+    "title": "Dex V5",
+    "mastahubdata": {
+      "link": "https://raw.githubusercontent.com/infyiff/backup/main/dex.lua",
+      "creator": "mihai_ff"
+    }
+  },
+
+    {
+        "title": "saveinstance",
+      "mastahubdata": {
+        "link": "https://raw.githubusercontent.com/MihaiMR/LuaUMoncao/main/saveinstance.lua",
+        "creator": "mihai_ff"
+      }
+    },
+    {
+        "title": "Anti Chat Logger",
+        "mastahubdata": {
+            "link": "https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua",
+            "creator": "AnthonyIsntHere"
+        }
+    },
+    {
+        "title": "------------------------------------",
+        "mastahubdata": {
+            "link": "",
+            "creator": ""
+        }
+    }
+]
